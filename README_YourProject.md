@@ -97,6 +97,7 @@ Projede kalp hastalığı tahmini için UCI Heart Disease veri seti üzerinde Or
 ## Kaynaklar
 
 1. [https://www.youtube.com/@OrangeDataMining](https://www.youtube.com/@OrangeDataMining)
+2. [https://orangedatamining.com/widget-catalog/](https://orangedatamining.com/widget-catalog/)
 
 ## Ekler
 ### Orange Proje Dosyası
