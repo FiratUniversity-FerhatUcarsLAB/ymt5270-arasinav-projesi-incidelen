@@ -48,18 +48,17 @@ Veri Seti: Hastaların yaşı, cinsiyeti, göğüs ağrısı tipi, dinlenme sır
 - Orange kategorik değişkenleri otomatik olarak işlendi.
 
 ### Görselleştirmeler
-Orange ile yaptığınız veri görselleştirmelerini buraya ekleyiniz. Her görselleştirme için kısa bir açıklama yazınız. Görselleri bu repoya yükleyip, markdown içinde referans verebilirsiniz.
 
 #### Görselleştirme 1: [Feature Statistics]
 ![Bu görsel tüm özniteliklerin dağılımını ve hedef değişken olan kalp hastalığına göre sınıflar (0 ve 1) arasındaki farkları karşılaştırmalı olarak sunmaktadur](img/gorsellestirme1.png)
 *Öznitelikler kalp hastalığı sınıflarına (0 ve 1) göre nasıl dağıldığını göstererek sınıflandırma açısından etkili olabilecek değişkenleri ortaya koymaktadır. Özellikle ST by exercise, chest pain ve thal gibi öznitelikler sınıflar arasında belirgin farklılık göstermektedir. Veri seti genel olarak dengeli ve eksik veri oranı oldukça düşüktür.*
 
 #### Görselleştirme 2: [değişkenlerin kalp hastalığına göre dağılımı]
-![Bu kısım değişkenlerin kalp hastalığına göre dağılımını göstermektedir.](goruntuler/gorsellestirme2.png)
+![Bu kısım değişkenlerin kalp hastalığına göre dağılımını göstermektedir.](img/gorsellestirme2.png)
 *Erkek bireylerde kalp hastalığı görülme oranı kadınlara göre daha fazladır. Kadınlarda hastalık görülme oranı düşük kalırken, hastalığı olmayan grubun büyük çoğunluğunu da erkekler oluşturmaktadır. Diğer değişkenlere de hastalık dağılımı için bakılabilmektedir.*
 
 ### Öznitelik İlişkileri
-![Bu scatter plot widgeti kolesterol değerlerinin kalp hastalığı sınıflarına göre nasıl dağıldığını göstermektedir](goruntuler/gorsellestirme3.png)
+![Bu scatter plot widgeti kolesterol değerlerinin kalp hastalığı sınıflarına göre nasıl dağıldığını göstermektedir](img/gorsellestirme3.png)
 
 ## Makine Öğrenmesi Uygulaması
 ### Kullanılan Yöntem
